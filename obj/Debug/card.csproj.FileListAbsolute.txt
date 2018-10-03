@@ -1,0 +1,14 @@
+E:\Mega\noyt\unik\lab\programming languages\card\card\bin\Debug\card.exe.config
+E:\Mega\noyt\unik\lab\programming languages\card\card\bin\Debug\card.exe
+E:\Mega\noyt\unik\lab\programming languages\card\card\bin\Debug\card.pdb
+E:\Mega\noyt\unik\lab\programming languages\card\card\obj\Debug\card.csprojAssemblyReference.cache
+E:\Mega\noyt\unik\lab\programming languages\card\card\obj\Debug\card.csproj.CoreCompileInputs.cache
+E:\Mega\noyt\unik\lab\programming languages\card\card\obj\Debug\card.exe
+E:\Mega\noyt\unik\lab\programming languages\card\card\obj\Debug\card.pdb
+D:\Mega\unik\lab\programming languages\card\card\bin\Debug\card.exe.config
+D:\Mega\unik\lab\programming languages\card\card\bin\Debug\card.exe
+D:\Mega\unik\lab\programming languages\card\card\bin\Debug\card.pdb
+D:\Mega\unik\lab\programming languages\card\card\obj\Debug\card.csprojAssemblyReference.cache
+D:\Mega\unik\lab\programming languages\card\card\obj\Debug\card.csproj.CoreCompileInputs.cache
+D:\Mega\unik\lab\programming languages\card\card\obj\Debug\card.exe
+D:\Mega\unik\lab\programming languages\card\card\obj\Debug\card.pdb
